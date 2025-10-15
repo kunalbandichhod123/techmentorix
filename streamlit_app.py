@@ -110,7 +110,7 @@ with st.form("input_form"):
     col1, col2, col3 = st.columns(3)
 
     with col1:
-        age = st.number_input("Age (years)", min_value=3, max_value=18, value=10)
+        age = st.number_input("Age", min_value=3, max_value=18, value=10)
         height = st.number_input("Height (cm)", min_value=80, max_value=200, value=135)
 
     with col2:
@@ -181,7 +181,7 @@ def extract_workout_lines(block: str):
 # Generate and Display Plan
 # -------------------------
 if submit:
-    with st.spinner("⏳ Generating Your 7-day Meal Plan..."):
+    with st.spinner("Generating Your 7-day Meal Plan..."):
         prompt = f"""
 You are a pediatric nutritionist. Generate a **7-day complete Indian meal & workout plan for kids**.
 Rules:
@@ -276,4 +276,5 @@ Allergies: {allergies or 'None'}, Conditions: {diseases or 'None'}
 
 elif submit:
     st.error("No plan generated. Try again.")
+
 
