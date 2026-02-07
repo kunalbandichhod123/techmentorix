@@ -32,18 +32,17 @@ INDEX_DIR = os.path.join(BASE_DIR, "..", "faiss_index")
 TOP_K = 4             # Default for strict medical accuracy
 FINAL_CONTEXT = 4     # Number of chunks to show to the LLM
 
+# Load environment variables
+from dotenv import load_dotenv
+load_dotenv()
+
 # 4. LLM Provider Settings
 PROVIDER = "groq"   # Options: "groq" or "ollama"
 OLLAMA_MODEL = "llama3"
 GROQ_MODEL = "llama-3.3-70b-versatile"
 
-
-# Load Groq API key from environment (.env)
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-
-if not GROQ_API_KEY:
-    raise ValueError("GROQ_API_KEY not found in environment variables.")
-
+# 🔒 SECURE API KEY LOAD
+GROQ_API_KEY = os.getenv("GROQ_API_KEY_ENGINE")
 # ================== SESSION STORAGE (IN-MEMORY) ==================
 # This replaces the need for app.py to manage history complexly.
 HISTORY_STORE = {}
@@ -99,19 +98,21 @@ except Exception as e:
 
 def query_groq(prompt, max_tokens=1024):
     """Sends prompt to Groq API."""
-    if "YOUR_GROQ_KEY" in GROQ_API_KEY:
-        return "❌ Error: Please paste your Groq API Key in query_engine.py"
+    # FIX 1: Use the Python variable 'GROQ_API_KEY', not the env string name
+    if not GROQ_API_KEY:
+        return "❌ Error: GROQ_API_KEY_ENGINE not found in .env file"
 
     url = "https://api.groq.com/openai/v1/chat/completions"
     headers = {
+        # FIX 2: Use the Python variable here too
         "Authorization": f"Bearer {GROQ_API_KEY}",
         "Content-Type": "application/json"
     }
     data = {
         "model": GROQ_MODEL,
         "messages": [{"role": "user", "content": prompt}],
-        "max_tokens": 500,  # Adjusted for concise but detailed answers
-        "temperature": 0.6, # Slightly lower for factual stability
+        "max_tokens": 500,  
+        "temperature": 0.6, 
     }
     try:
         r = requests.post(url, headers=headers, json=data, timeout=30)
