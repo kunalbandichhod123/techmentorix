@@ -7,3 +7,19 @@ python-dotenv
 alembic
 requests
 google-genai
+streamlit
+reportlab
+pillow
+opencv-python
+numpy
+pandas
+
+
+//sendrid
+passlib[bcrypt]
+python-jose
+email-validator
+sendgrid python-dotenv
+
+
+

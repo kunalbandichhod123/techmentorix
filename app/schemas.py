@@ -1,63 +1,37 @@
-# app/schemas.py
 from pydantic import BaseModel
-from typing import Optional, Dict, List
+from typing import Optional
+from datetime import datetime
 
-class StudentBase(BaseModel):
+
+# ---------------- PATIENT SCHEMAS ----------------
+
+class PatientCreate(BaseModel):
     name: str
-
-class StudentCreate(StudentBase):
-    pass
-
-class Student(StudentBase):
-    id: int
-    class Config:
-        orm_mode = True
-
-class HealthProfileBase(BaseModel):
     age: int
-    height_cm: float
-    weight_kg: float
-    diseases: Optional[Dict[str, bool]] = None
-    allergies: Optional[Dict[str, bool]] = None
+    gender: str
+    height: int
+    weight: int
+    disease: Optional[str] = None
+    prakriti: Optional[str] = None
 
-class HealthProfileCreate(HealthProfileBase):
-    pass
 
-class HealthProfile(HealthProfileBase):
+class Patient(PatientCreate):
     id: int
-    student_id: int
+
     class Config:
-        orm_mode = True
+        from_attributes = True
 
-# Food
-class FoodBase(BaseModel):
-    name: str
-    calories_kcal: float
-    protein_g: Optional[float] = None
-    carbs_g: Optional[float] = None
-    fat_g: Optional[float] = None
-    allergens: Optional[Dict[str, bool]] = None
-    tags: Optional[List[str]] = None
-    cuisine: Optional[str] = None
-    prep_time_min: Optional[int] = None
-    cost_index: Optional[int] = None
 
-class FoodCreate(FoodBase):
-    pass
+# ---------------- MEAL PLAN SCHEMAS ----------------
 
-class Food(FoodBase):
+class MealPlanResponse(BaseModel):
     id: int
+    meal_text: str
+    created_at: datetime
+
     class Config:
-        orm_mode = True
+        from_attributes = True
 
-class MealPlanBase(BaseModel):
-    plan: Dict
 
-class MealPlanCreate(MealPlanBase):
-    pass
-
-class MealPlan(MealPlanBase):
-    id: int
-    student_id: int
-    class Config:
-        orm_mode = True
+class MealPlanUpdate(BaseModel):
+    meal_text: str

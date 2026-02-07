@@ -5,6 +5,8 @@ from alembic import context
 
 # Import Base + Models
 from app.db import Base
+from app import models
+
 import app.models  # ensure models are registered
 
 from dotenv import load_dotenv

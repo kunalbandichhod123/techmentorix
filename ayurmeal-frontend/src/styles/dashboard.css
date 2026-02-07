@@ -1,0 +1,700 @@
+/* ===============================
+   AYURVEDIC GREEN THEME – FINAL
+   =============================== */
+
+/* --- COLOR SYSTEM --- */
+:root {
+  --ayur-green: #487b52;
+  --ayur-green-dark: #0b5c42;
+  --ayur-green-soft: #e6f3ee;
+
+  --ayur-text: #2f3e34;
+  --ayur-bg: #f4fbf8;
+  --ayur-card-bg: #ffffff;
+  --ayur-border: #c8e0d7;
+}
+
+/* --- GLOBAL --- */
+.dashboard-body {
+  font-family: Georgia, serif;
+  min-height: 80vh;
+  padding: 20px;
+  color: var(--ayur-text);
+   background:
+    radial-gradient(circle at top left, rgba(255,255,255,0.45), transparent 60%),
+    linear-gradient(135deg, #87b397 0%, #779e85 35%, #88b398 65%, #428d5e 100%);
+  
+}
+.section-title {
+  text-align: center;
+  margin-bottom: 25px;
+}
+.login-btn {
+  color: #ffffff !important;
+  background: var(--ayur-green-soft) !important;
+}
+
+
+.collapsible {
+  /* Existing styles (background, color, etc.) stay the same */
+  background: var(--ayur-green);
+  color: white;
+  padding: 13px 300px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 16px;
+  text-size-adjust: 20px;
+  min-width: 500px;
+  /* FIX: Centering Logic */
+  display: block;      /* Takes up the full width line */
+  margin: 2px auto;   /* 30px spacing top/bottom, 'auto' centers it left/right */
+  width: fit-content;  /* Ensures the button only stays as wide as its text */
+  
+  transition: all 0.3s ease;
+}
+
+.collapsible:hover {
+  background: var(--ayur-green-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(11, 110, 79, 0.2);
+}
+h2, h3 {
+  color: var(--ayur-green);
+  margin: 0;
+}
+
+/* --- HEADER --- */
+.header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.profile-container {
+  position: relative;
+}
+
+/* Doctor Icon */
+.doctor-profile-circle {
+  width: 45px;
+  height: 45px;
+  background: var(--ayur-green);
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Dropdown */
+/* --- Rectangular Dropdown Box --- */
+/* --- Modern Rectangular Dropdown --- */
+.profile-dropdown {
+  position: absolute;
+  top: 65px;
+  right: 0;
+  width: 240px;
+  background: #ffffff; /* Clean white background */
+  border: 1px solid rgba(11, 110, 79, 0.1); /* Very subtle green border */
+  
+  /* Modern soft corners (not square, not a pill) */
+  border-radius: 11px; 
+  
+  /* Deep, soft shadow for a floating effect */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15); 
+  
+  padding: 4px ;
+  z-index: 1000;
+  overflow: hidden;
+  animation: slideIn 0.2s ease-out;
+}
+
+/* --- Refined Dropdown Items --- */
+.dropdown-item {
+  width: 92%;
+  margin: 0 4%; /* Creates space around the item for a floating look */
+  padding: 12px 16px;
+  border: none;
+  background: transparent;
+  color: #2f3e34; /* Darker, readable text */
+  text-align: left;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  
+  /* Matches the outer card for consistency */
+  border-radius:14px; 
+  
+  transition: all 0.2s ease-in-out;
+}
+
+/* Hover Effect: Soft Green Tint */
+.dropdown-item:hover {
+  background-color: #f1f8e9; /* Very light mint green */
+  color: #447364; /* Change text color to brand green on hover */
+  transform: translateX(4px); /* Subtle slide effect */
+}
+
+/* Animation for a smooth reveal */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* Optional: Add a thin separator between items */
+.dropdown-item:not(:last-child) {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.dropdown-item:active,
+.dropdown-item:focus {
+  background: var(--ayur-green-dark);
+  color: white;
+  outline: none;
+}
+
+/* --- CARDS --- */
+.dashboard-form,
+.planner-card,
+.verification-card {
+  background: var(--ayur-card-bg);
+  border-top: 6px solid var(--ayur-green);
+  border-radius: 24px; /* Slightly smoother corners for the centered look */
+  
+  /* FIX: Use uniform padding so content isn't pushed to one side */
+  padding: 40px; 
+  
+  /* FIX: Ensure the card itself is centered in the parent container */
+  margin: 20px auto; 
+  
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+   background:
+    radial-gradient(circle at top left, rgba(255,255,255,0.45), transparent 60%),
+    linear-gradient(135deg, #e6dcc0 0%, #e6dcc0 35%, #e6dcc0 65%, #e6dcc0 100%);
+
+  
+  /* FIX: Use flexbox inside the card to keep internal elements aligned */
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 900px; /* Limits width so it doesn't stretch too thin on wide screens */
+}
+
+/* Ensure the grid inside the card is also centered */
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  justify-content: center;
+  width: 100%;
+}
+/* --- FORM GRID --- */
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px 30px;
+  margin-bottom: 20px;
+  
+}
+
+/* Input Group */
+.input-group {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+/* Inputs */
+input,
+select,
+textarea,
+.professional-input-square {
+  width: 100%;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid var(--ayur-border);
+  background: #ffffff;
+  font-size: 15px;
+  box-sizing: border-box;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: var(--ayur-green);
+  box-shadow: 0 0 0 3px rgba(11,110,79,0.15);
+  outline: none;
+}
+
+/* --- BUTTONS --- */
+button,
+.orange-btn,
+.generate-btn {
+  background: var(--ayur-green-soft);
+  color: white;
+  border: none;
+  padding: 14px 22px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+/* Workout title */
+.workout-plan h3 {
+  color: #3f7d5a;
+  font-weight: 600;
+  margin-bottom: 14px;
+}
+
+button:hover,
+.orange-btn:hover,
+.generate-btn:hover {
+  background: var(--ayur-green-soft);
+}
+
+button:disabled {
+  background: #b0cfc3;
+  cursor: not-allowed;
+}
+
+/* --- TABLE --- */
+.table-wrapper {
+  overflow-x: auto;
+}
+
+.orange-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--ayur-card-bg);
+}
+
+.orange-table th {
+  background: var(--ayur-green);
+  color: white;
+  padding: 14px;
+  text-align: left;
+}
+
+.orange-table td {
+  padding: 12px;
+  border-bottom: 1px solid var(--ayur-border);
+}
+
+tbody tr:hover {
+  background: var(--ayur-green-soft);
+}
+
+/* --- ICON COLORS --- */
+.plus-icon,
+.history-icon,
+.logout-icon {
+  color: var(--ayur-green);
+}
+
+/* --- ANIMATION --- */
+@keyframes menuPop {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+/* ===============================
+   FORCE FULL GREEN THEME
+   =============================== */
+
+/* --- TITLE --- */
+h1, h2, h3,
+.plan-title,
+.meal-plan-title {
+  color: var(--ayur-green) !important;
+}
+
+/* --- DAY TABS (Day 1 – Day 7) --- */
+.day-tabs,
+.tabs-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+/* Normal tab */
+.day-tab,
+.tab-btn {
+  border: 1px solid var(--ayur-green) !important;
+  background: transparent !important;
+  color: var(--ayur-green) !important;
+  padding: 8px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+/* Active tab */
+.day-tab.active,
+.tab-btn.active {
+  background: var(--ayur-green) !important;
+  color: white !important;
+  box-shadow: 0 4px 12px rgba(11,110,79,0.25);
+}
+
+/* Hover state */
+.day-tab:hover,
+.tab-btn:hover {
+  background: var(--ayur-green-soft) !important;
+  color: var(--ayur-green-dark) !important;
+}
+
+/* --- TABLE HEADER FIX --- */
+.orange-table th {
+  background: var(--ayur-green) !important;
+  color: white !important;
+}
+
+/* --- REMOVE ANY ORANGE SHADOWS / BORDERS --- */
+* {
+  box-shadow: none;
+}
+
+/* --- OPTIONAL: ROW HOVER GREEN --- */
+.orange-table tbody tr:hover {
+  background: var(--ayur-green-soft);
+}
+
+/* --- REMOVE ORANGE ACCENTS ANYWHERE --- */
+[style*="orange"],
+[style*="#ff5722"],
+[style*="#ff9800"] {
+  color: var(--ayur-green) !important;
+  background-color: transparent !important;
+}
+
+/* ===============================
+   FORCE FULL GREEN THEME
+   =============================== */
+
+/* --- TITLE --- */
+h1, h2, h3,
+.plan-title,
+.meal-plan-title {
+  color: var(--ayur-green) !important;
+}
+
+/* --- DAY TABS (Day 1 – Day 7) --- */
+.day-tabs,
+.tabs-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 25px;
+}
+
+/* Normal tab */
+.day-tab,
+.tab-btn {
+  border: 1px solid var(--ayur-green) !important;
+  background: transparent !important;
+  color: var(--ayur-green) !important;
+  padding: 8px 18px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+/* Active tab */
+.day-tab.active,
+.tab-btn.active {
+  background: var(--ayur-green) !important;
+  color: white !important;
+  box-shadow: 0 4px 12px rgba(11,110,79,0.25);
+}
+
+/* Hover state */
+.day-tab:hover,
+.tab-btn:hover {
+  background: var(--ayur-green-soft) !important;
+  color: var(--ayur-green-dark) !important;
+}
+
+/* --- TABLE HEADER FIX --- */
+.orange-table th {
+  background: var(--ayur-green) !important;
+  color: white !important;
+}
+
+/* --- REMOVE ANY ORANGE SHADOWS / BORDERS --- */
+* {
+  box-shadow: none;
+}
+
+/* --- OPTIONAL: ROW HOVER GREEN --- */
+.orange-table tbody tr:hover {
+  background: var(--ayur-green-soft);
+}
+
+/* --- REMOVE ORANGE ACCENTS ANYWHERE --- */
+[style*="orange"],
+[style*="#ff5722"],
+[style*="#ff9800"] {
+  color: var(--ayur-green) !important;
+  background-color: transparent !important;
+}
+
+/* ================================
+   FORCE REMOVE ALL ORANGE
+   ================================ */
+
+/* --- SECTION CONTAINERS --- */
+.workout-section,
+.recipe-section,
+.lifestyle-section,
+.info-card {
+  background: #f6fbf8 !important;
+  border-left: 5px solid var(--ayur-green) !important;
+}
+
+/* --- SECTION HEADINGS --- */
+.workout-section h3,
+.recipe-section h3,
+.lifestyle-section h3,
+.section-title {
+  color: var(--ayur-green) !important;
+}
+
+/* Remove emoji color influence */
+.workout-section h3 span,
+.recipe-section h3 span,
+.lifestyle-section h3 span {
+  color: var(--ayur-green) !important;
+}
+
+/* --- TABLE HEADERS --- */
+table th {
+  background-color: var(--ayur-green) !important;
+  color: white !important;
+}
+
+/* --- LEFT ORANGE STRIP FIX --- */
+.workout-section::before,
+.recipe-section::before,
+.lifestyle-section::before {
+  background: var(--ayur-green) !important;
+}
+
+/* --- BUTTON FIX --- */
+button,
+.modify-btn,
+.pdf-btn,
+.print-btn {
+  /*login color green */
+  background: var(--ayur-green-soft) !important; 
+  color: rgb(49, 120, 73) !important;
+  border: none !important;
+  text-decoration-color: #d9e2de;
+}
+
+/* Button hover */
+button:hover {
+ background: #3a7e68 !important; /* Your chosen gray background */
+  color: #dae3e1 !important;
+  text-decoration: #bdc9c5;
+}
+.auth-btn:hover,
+.login-card button:hover {
+  background: #528d7e !important;
+  color: #2d7c65 !important; /* Changes text to Brand Green on hover */
+}
+/* --- REMOVE ORANGE TEXT ANYWHERE --- */
+* {
+  caret-color: var(--ayur-green-dark);
+}
+
+*[style*="orange"],
+*[style*="#ff5722"],
+*[style*="#ff9800"] {
+  color: var(--ayur-green) !important;
+  border-color: var(--ayur-green) !important;
+  background-color: transparent !important;
+}
+
+/* --- ICON COLOR OVERRIDE --- */
+i, svg {
+  color: var(--ayur-green) !important;
+}
+
+/* --- PDF / PRINT BUTTON BAR --- */
+.action-bar button {
+  background: var(--ayur-green) !important;
+  border-radius: 10px;
+}
+/* =========================================
+   FORCE GREEN FOR WORKOUT / LIFESTYLE / RECIPE TITLES
+   ========================================= */
+
+/* Section wrapper fix */
+.workout-section,
+.lifestyle-section,
+.recipe-section {
+  border-left: 5px solid var(--ayur-green) !important;
+  background: #f6fbf8 !important;
+}
+
+/* TEXT COLOR FIX — THIS IS THE MAIN ISSUE */
+.workout-section *,
+.lifestyle-section *,
+.recipe-section * {
+  color: #0b6e4f !important; /* Solid Ayur Green */
+}
+
+/* Specifically target headings */
+.workout-section h3,
+.lifestyle-section h3,
+.recipe-section h3 {
+  color: #0b6e4f !important;
+  font-weight: 700;
+}
+
+/* Emoji icons inside headings */
+.workout-section h3 span,
+.lifestyle-section h3 span,
+.recipe-section h3 span {
+  color: #0b6e4f !important;
+}
+
+/* If titles are rendered as <strong> */
+.workout-section strong,
+.lifestyle-section strong,
+.recipe-section strong {
+  color: #0b6e4f !important;
+}
+
+/* Remove ANY leftover inline orange */
+[style*="orange"],
+[style*="#ff"],
+[style*="rgb(255"] {
+  color: #0b6e4f !important;
+  border-color: #0b6e4f !important;
+}
+/* ================================
+   VERIFY PATIENT – CENTERED CARD
+   ================================ */
+
+/* Page-level centering */
+.verify-page-container {
+  min-height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* SINGLE verification card */
+.verification-card {
+  max-width: 420px;
+  width: 100%;
+  padding: 35px;
+  border-radius: 14px;
+  background: #ffffff;
+  border-top: 6px solid var(--ayur-green);
+  box-shadow: 0 15px 40px rgba(11, 110, 79, 0.15);
+  text-align: center;
+}
+
+/* Title */
+.verification-card h3 {
+  color: var(--ayur-green);
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+/* Subtitle */
+.verification-card p {
+  color: #5f6f65;
+  margin-bottom: 25px;
+  font-size: 0.95rem;
+}
+
+/* Phone input */
+.verification-card input {
+  width: 100%;
+  padding: 14px;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 1.5px solid #c8dfd3;
+  margin-bottom: 20px;
+}
+
+.verification-card input:focus {
+  border-color: var(--ayur-green);
+  outline: none;
+  box-shadow: 0 0 0 4px rgba(11, 110, 79, 0.15);
+}
+
+/* Button */
+.verification-card button {
+  width: 100%;
+  padding: 14px;
+  border-radius: 10px;
+  background: var(--ayur-green);
+  color: #ffffff;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.verification-card button:hover {
+  background: #085c41;
+  transform: translateY(-2px);
+}
+
+.back-btn {
+  background-color: #487b52 !important; /* Brand green from your image */
+  color: #ffffff !important;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  
+  /* SIZE & SHAPE */
+  padding: 10px 30px;      /* Vertical and Horizontal padding */
+  border-radius: 50px;     /* Makes it a pill shape like the Day buttons */
+  font-size: 15px;
+  
+  /* CENTERING & SPACING */
+  display: block;          /* Allows margin auto to work */
+  margin: left; /* Centers the button and adds space below */
+  width: fit-content;      /* Ensures it doesn't stretch to full width */
+  
+  transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+  background-color: #084f39 !important; /* Darker green on hover */
+  transform: translateY(-2px);
+}

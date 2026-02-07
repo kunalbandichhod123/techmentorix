@@ -1,13 +1,5 @@
-<h3>How to Run</h3> 
-Installation & Setup
+python -m uvicorn app.main:app --reload
+Run Backend 
 
-<h4>Activate a Virtual Environment</h4>
-conda activate venv/
-
-<h4>Install Dependencies</h4>
-pip install -r requirements.txt
-
-<h4>Run the Streamlit App</h4>
-streamlit run streamlit_app.py
-
-
+npm start
+Run Frontend
