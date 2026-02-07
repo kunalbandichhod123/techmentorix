@@ -42,16 +42,19 @@ conda activate venv/
 **> AI chat assistant files making**
 - [x] created pdf text extraction files
 - [x] made chunks from texts
+- [x] tested chat ayurveda based questions
+- [x] created chat based ai assistant successfully
 
 **> AI/Voice Module (Branch: AI-voice-Assistant)**
 - [] Setup Speech-to-Text API
 - [] Train Symptom Prediction Model
 - [ ] Optimize response latency
 - [ ] Integrate Voice Output (TTS)
+- [ ] Integrate 2 level-llm architecture
 
 **> Dashboard & Backend (Branch: Dashboard)**
-- [ ] Design Database Schema
-- [ ] Create API endpoints for user data
+- [x] made an patient input page
+- [x] added modify diet plan feature
 - [x] Implement PDF Generation Logic
 - [x] Connect with streamlit
 
