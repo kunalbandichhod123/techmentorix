@@ -1,0 +1,8 @@
+nltk
+tqdm
+requests
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+Whoosh
