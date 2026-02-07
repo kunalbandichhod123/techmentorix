@@ -1,1 +1,5 @@
 venv/
+DATA PDFs/
+.env
+BACKEND/core/.env
+**/.env

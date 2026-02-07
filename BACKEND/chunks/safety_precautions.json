@@ -1,0 +1,354 @@
+[
+  {
+    "id": "safety_precautions__p1__c0",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "safety_precautions",
+    "word_count": 1,
+    "hash": "bb099cf15950d85fc412d9210b1b24556cc21131a01bbb843991d4f8583f3dda"
+  },
+  {
+    "id": "safety_precautions__p1__c1",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "This file defines clear safety rules your assistant must follow before giving any\nAyurvedic or home-remedy suggestions.",
+    "word_count": 17,
+    "hash": "bed96137cc6db6aa2b46d3330706c7c35e38694689778eba051aa7b8c43aef78"
+  },
+  {
+    "id": "safety_precautions__p1__c2",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "Organized into: When NOT to use home remedies When to stop exercise When\nto call a doctor immediately",
+    "word_count": 18,
+    "hash": "55c5d763b2cbb130aa0691cb71b4dd30d8c8931421c4f7d9c7696e8b7b8d95c9"
+  },
+  {
+    "id": "safety_precautions__p1__c3",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "Contraindications Age-specific precautions Drug–herb interaction warnings",
+    "word_count": 6,
+    "hash": "12acbc49f3c44cc20d14cb1f43446c37af3ee6edcbde9145081023a2e35a6f59"
+  },
+  {
+    "id": "safety_precautions__p1__c4",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "1. WHEN NOT TO USE HOME REMEDIES",
+    "word_count": 7,
+    "hash": "cbb05983523279134d0657fd8dbcd9388d0b807586b7e33dedd2274de069ce42"
+  },
+  {
+    "id": "safety_precautions__p1__c5",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "Home remedies must not be given when any of these appear: A. Red-flag symp-\ntoms Chest pain Shortness of breath Severe dehydration Continuous vomiting\nSevere abdominal pain Loss of consciousness Sudden severe headache Vision loss\nBlood in stool, urine, or cough High fever >103°F (39.4°C) Seizures →Assistant\nmust escalate immediately: “Seek medical care now.”",
+    "word_count": 54,
+    "hash": "0e3c74d3e89b010f44d808e306eb262aa9cadaab65a43bcfeb4a35d014cabeb5"
+  },
+  {
+    "id": "safety_precautions__p1__c6",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "B. Chronic conditions requiring medical supervision Uncontrolled diabetes (fast-\ning glucose > 200 mg/dl) Uncontrolled hypertension (>160/100) Severe asthma\nattacks Kidney disease Liver disease Heart disease (angina, arrhythmia) Active\ninfections needing antibiotics →Do NOT give kadhas or herbs without caution.",
+    "word_count": 40,
+    "hash": "2ce3446b998f2e147f70e4a021e90e3f10c7b4193ad55c8155209cd1126974b0"
+  },
+  {
+    "id": "safety_precautions__p1__c7",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "C. High-risk groups Pregnancy Breastfeeding Infants (<5 years) Elderly with\nweakness Immunocompromised individuals →Only give very mild, safe sugges-\ntions (e.g., warm water, rest).",
+    "word_count": 24,
+    "hash": "ae0b6510c52897b4c175a598fa83bb77efadfccb979d9493f7bd0823e57e06a7"
+  },
+  {
+    "id": "safety_precautions__p1__c8",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "2. WHEN TO STOP EXERCISE IMMEDIATELY",
+    "word_count": 6,
+    "hash": "b8fc6ab436418d4274cfe19ed23f7dba41f8158994f72c8a3f6fa4a16e45982a"
+  },
+  {
+    "id": "safety_precautions__p1__c9",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "User must stop exercising if any of these occur: Chest pain or pressure Dizziness\nor blackout Strong shortness of breath Irregular heartbeat Sudden sharp joint\npain Vomiting Extreme fatigue Muscle cramps that don’t release",
+    "word_count": 34,
+    "hash": "b98ed3fcf1681d47142f84c87e495ea856daa1e193839350f7a4372fef1e9102"
+  },
+  {
+    "id": "safety_precautions__p1__c10",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "Actions for assistant: Tell them to stop Drink water Rest Seek medical care if\nsymptoms continue",
+    "word_count": 16,
+    "hash": "c798643fb6db7955ba95ed61f0de2e89735b121bece352e81fa34c727e84d615"
+  },
+  {
+    "id": "safety_precautions__p1__c11",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "3. WHEN TO CALL A DOCTOR IMMEDIATELY",
+    "word_count": 7,
+    "hash": "ed02950177d40929ffa6158eba697c10b7d05f456ee1047054853f2f462d2e31"
+  },
+  {
+    "id": "safety_precautions__p1__c12",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "These require urgent evaluation:",
+    "word_count": 4,
+    "hash": "4b44ecc4e78f4221bd01542324c02dd76922d7c70f1d43321dcb64164bb69121"
+  },
+  {
+    "id": "safety_precautions__p1__c13",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "A. CARDIAC Chest pressure radiating to arm/jaw Sudden breathlessness Pal-\npitations + dizziness",
+    "word_count": 13,
+    "hash": "9b48cfe27c8f271c664584e33fbca8677c9da922044da131590e6454108b2184"
+  },
+  {
+    "id": "safety_precautions__p1__c14",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "B. NEUROLOGICAL Sudden weakness or numbness Speech diﬀiculty Seizure\nLoss of balance",
+    "word_count": 12,
+    "hash": "725220c9bb50dd58e9a8f9c88f8804de584778d78efd76ba91c111494f549067"
+  },
+  {
+    "id": "safety_precautions__p1__c15",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "C. FEVER / INFECTION Fever >103°F Fever lasting >3 days Diﬀiculty breath-\ning with fever Persistent cough >2 weeks",
+    "word_count": 19,
+    "hash": "bea17bf1c473157e3b42e49d0e8190e96fbbec9c2d5b5fb93a7a1ce2491c299c"
+  },
+  {
+    "id": "safety_precautions__p1__c16",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "D. GI Blood in stool Severe abdominal pain Unstoppable vomiting",
+    "word_count": 10,
+    "hash": "c79c12fdadf5b35449c03506f093bffc07cda5f58b4133b0231e17fcf25ea59f"
+  },
+  {
+    "id": "safety_precautions__p1__c17",
+    "doc_id": "safety_precautions",
+    "page": 1,
+    "text": "1",
+    "word_count": 1,
+    "hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "id": "safety_precautions__p2__c0",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "E. DIABETES Blood sugar >300 mg/dL Fruity breath odor (ketoacidosis) Con-\nfusion",
+    "word_count": 12,
+    "hash": "90c99d0585e676ffbf1802fb7ba38df3d09abcc7ef27bd4e4506f655b978fba2"
+  },
+  {
+    "id": "safety_precautions__p2__c1",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "F. PREGNANCY Abdominal pain Bleeding Reduced fetal movement High BP\nsymptoms (headache, swelling, vision changes) Assistant instruction: →Provide\nno home remedies. →Only give emergency escalation instructions.",
+    "word_count": 26,
+    "hash": "d17cfe1dd31bc1147a02f6983b31eaeb1822194483c7573f30b5e8212cc4ec01"
+  },
+  {
+    "id": "safety_precautions__p2__c2",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "4. CONTRAINDICATIONS (PER HERB / REMEDY TYPE)",
+    "word_count": 7,
+    "hash": "7f2ccc530e729b61924d900f0c0f33805cceb921ef95d57b4b8feb1259cb3478"
+  },
+  {
+    "id": "safety_precautions__p2__c3",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "A. PREGNANCY Avoid strong/heating herbs: Ajwain Cinnamon (high dose)\nTriphala (high dose) Aloe vera juice Ashwagandha (caution) Neem Papaya (raw)\nAllowed mild options: Warm water Light tulsi steam (not internal in excess)\nMild ginger tea in small amounts",
+    "word_count": 38,
+    "hash": "8adba13d187e2d02872237167e81c628cd7d292b217cc384c037acd60d78d94d"
+  },
+  {
+    "id": "safety_precautions__p2__c4",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "B. DIABETES Avoid high-sugar remedies: Honey (especially hot water + honey\nis contraindicated in Ayurveda) Jaggery Sweet herbal syrups Caution: Fenu-\ngreek helps but can cause low sugar with medications.",
+    "word_count": 30,
+    "hash": "7a18ba5ce29f10d2ba700805506265d313240d10e12f7b3608bbd18a1b1b79bd"
+  },
+  {
+    "id": "safety_precautions__p2__c5",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "C. HYPERTENSION Avoid: Mulethi (licorice) High salt remedies Very spicy\nkadhas",
+    "word_count": 11,
+    "hash": "0ec6c9bd72edcd5c5bd095c4dd356cfe639fb2c78693592987b351acf3fe8156"
+  },
+  {
+    "id": "safety_precautions__p2__c6",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "D. ACIDITY / ULCERS Avoid: Ginger (large amounts) Black pepper Clove\nLemon-based kadhas Vinegar remedies",
+    "word_count": 15,
+    "hash": "9cae98868de6b02a18383694907cb8073f27ed6cba4efc0ad5289b3bde777c5c"
+  },
+  {
+    "id": "safety_precautions__p2__c7",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "Prefer: Saunf Coconut water Cardamom",
+    "word_count": 5,
+    "hash": "817aebb4020ddb8d3ff9abcef979b400d39db94145009c5e402f99fa65fce580"
+  },
+  {
+    "id": "safety_precautions__p2__c8",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "E. KIDNEY ISSUES Avoid: High-potassium remedies (excess coconut water)\nStrong diuretic kadhas",
+    "word_count": 12,
+    "hash": "47cf8f2a177ebf8437d72dc2ba6a0f72e8ff00cf2f7ff170e3614fc799915c5b"
+  },
+  {
+    "id": "safety_precautions__p2__c9",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "5. AGE-SPECIFIC PRECAUTIONS",
+    "word_count": 3,
+    "hash": "ec98e11f0981862bfb5c3a3f6c0c5195cec028117a3983a55a3191b234ad4618"
+  },
+  {
+    "id": "safety_precautions__p2__c10",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "A. Infants (<5 years)",
+    "word_count": 4,
+    "hash": "1b6f56f7bd4c59d9557e159f3f8e71c8bfcc0d439fff98514149983edaa37b8f"
+  },
+  {
+    "id": "safety_precautions__p2__c11",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "Avoid: All spicy kadhas Honey for <1 year Any strong herbs",
+    "word_count": 11,
+    "hash": "c8e3712dbf5881216ca901cdc8495fdd82941953fa617b91121a1c04b3db066a"
+  },
+  {
+    "id": "safety_precautions__p2__c12",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "Allowed: Warm water Steam inhalation (mild) Light tulsi water (very mild\ndilution)",
+    "word_count": 12,
+    "hash": "76cb64fae84b406622804f23f97cb09fe1bb04c8c8f98d073232b9e387f07f3a"
+  },
+  {
+    "id": "safety_precautions__p2__c13",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "B. Elderly Avoid: Strong cleanses Heavy fasting Strong spices",
+    "word_count": 9,
+    "hash": "c80491ec450c9faf658bb076a0cd3f49df655a7f06cf0568f6716ab028283f4a"
+  },
+  {
+    "id": "safety_precautions__p2__c14",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "Prefer: Mild warm soups Gentle yoga Hydration",
+    "word_count": 7,
+    "hash": "7af368cfa1c3344c31691a501c10f30f51ac12bb55b81bf5e00956a561226553"
+  },
+  {
+    "id": "safety_precautions__p2__c15",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "6. DRUG–HERB INTERACTIONS",
+    "word_count": 3,
+    "hash": "e03a0a099f86230eb9b6db6c1ef1e2d02505275fd56ecb745dc7da965d93b8ce"
+  },
+  {
+    "id": "safety_precautions__p2__c16",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "A. Blood pressure medication Avoid: Licorice Strong stimulants (ginger in ex-\ncess)",
+    "word_count": 12,
+    "hash": "a70d3826d400c0307a866a4240718f7784b19e286041a2d7b357b7f9f9fee553"
+  },
+  {
+    "id": "safety_precautions__p2__c17",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "B. Blood thinners",
+    "word_count": 3,
+    "hash": "030b9d3d7f1732894647746c909b444e9dd1cb752695310ab03dd65e31487de1"
+  },
+  {
+    "id": "safety_precautions__p2__c18",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "Avoid: Turmeric high doses Garlic Ginger high doses",
+    "word_count": 8,
+    "hash": "c49011d936381f0c07f0165849b554450b7c1545f6420850588a5e729aedf3d6"
+  },
+  {
+    "id": "safety_precautions__p2__c19",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "C. Diabetes medication Caution: Fenugreek Cinnamon Bitter gourd",
+    "word_count": 8,
+    "hash": "5d689c8bb95bb3192eefbe93da70a51ce34e95d2245a7d9da8453338c20e1318"
+  },
+  {
+    "id": "safety_precautions__p2__c20",
+    "doc_id": "safety_precautions",
+    "page": 2,
+    "text": "2",
+    "word_count": 1,
+    "hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "id": "safety_precautions__p3__c0",
+    "doc_id": "safety_precautions",
+    "page": 3,
+    "text": "D. Thyroid medication Avoid: Ashwagandha in hyperthyroidism",
+    "word_count": 7,
+    "hash": "c57022287d514f8e95ee610ed706004ffb0cb9948fa8bb8c6511f3152c8d321f"
+  },
+  {
+    "id": "safety_precautions__p3__c1",
+    "doc_id": "safety_precautions",
+    "page": 3,
+    "text": "E. Antidepressants / sedatives Avoid: Ashwagandha high doses (sedation)",
+    "word_count": 9,
+    "hash": "dba6c185346109cd08fed7971deec354b8c56b5dedfbc86f1e8e6b08d0e98da7"
+  },
+  {
+    "id": "safety_precautions__p3__c2",
+    "doc_id": "safety_precautions",
+    "page": 3,
+    "text": "7. GENERAL RULE",
+    "word_count": 3,
+    "hash": "37fa9e9cd650e00b37835b09fb41eda9f59bf764c196e7b76d763d6ef4e5deaf"
+  },
+  {
+    "id": "safety_precautions__p3__c3",
+    "doc_id": "safety_precautions",
+    "page": 3,
+    "text": "If the user reports any severe, unclear, sudden, or worsening symptom: →The\nassistant must NOT give a remedy. →Redirect to: “Seek medical attention.”",
+    "word_count": 23,
+    "hash": "6afe2b6086b9eb63036f22d949177388ec9cd627d09451be7215b60d46f24f03"
+  },
+  {
+    "id": "safety_precautions__p3__c4",
+    "doc_id": "safety_precautions",
+    "page": 3,
+    "text": "3",
+    "word_count": 1,
+    "hash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+  }
+]

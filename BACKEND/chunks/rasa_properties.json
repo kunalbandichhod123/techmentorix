@@ -1,0 +1,674 @@
+[
+  {
+    "id": "rasa_properties__p1__c0",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "rasa_properties",
+    "word_count": 1,
+    "hash": "141a3120d4476e9c2f99a0e0c6c6eeccf06c87497ed77967343b9a5e7c1131d2"
+  },
+  {
+    "id": "rasa_properties__p1__c1",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Ayurveda identifies 6 rasas (tastes). Each rasa influences Vata / Pitta /\n Kapha, digestion, and therapeutic use. # Use this file for:\n • Dosha-safe food suggestions\n • Kadha substitutions\n • Flavor-compatible replacements\n • Explaining why something aggravates or reduces a dosha",
+    "word_count": 42,
+    "hash": "820d05b7710b60e3bedd0477c8cbe0bb52f1d8c3d7fb20f8960f02eb449dce2e"
+  },
+  {
+    "id": "rasa_properties__p1__c2",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "1. SWEET (Madhura)",
+    "word_count": 3,
+    "hash": "dc84e54e65386539cedcc5fb58d44b8ef3179b2351c4fdb0eb576ce561348da7"
+  },
+  {
+    "id": "rasa_properties__p1__c3",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "Primary effects",
+    "word_count": 2,
+    "hash": "f06b1f42b810a45ad8c9a0561259a32d2eb368d58a7b3ed17c9db9a42783de63"
+  },
+  {
+    "id": "rasa_properties__p1__c4",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Builds tissues, nourishing, grounding\n • Cooling for Pitta\n • Stable for Vata\n • Heavy for Kapha",
+    "word_count": 17,
+    "hash": "479431fb4f668e389ae74abe377cae43e416d7b6b0e4071034180d4e73d715bf"
+  },
+  {
+    "id": "rasa_properties__p1__c5",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "Increases",
+    "word_count": 1,
+    "hash": "5412dd3fd391e985ab9bc14c4c6fc9fc6816f4c19e1e4ca3f80203213a18d80c"
+  },
+  {
+    "id": "rasa_properties__p1__c6",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Kapha (most)\n • Body weight\n • Mucus",
+    "word_count": 8,
+    "hash": "44504abaef074ecd0f2869f1c2fc3442f3822b43157160d3e37b3fcaecf6da3e"
+  },
+  {
+    "id": "rasa_properties__p1__c7",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "Decreases",
+    "word_count": 1,
+    "hash": "d7301418bdcf742ce3c30e2caa83888001a9ee23fb93ce5a00b3c20c1fabdc47"
+  },
+  {
+    "id": "rasa_properties__p1__c8",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Pitta (heat)\n • Vata (dryness, anxiety)",
+    "word_count": 7,
+    "hash": "4d9527e1f8f4f4804a3932d9f4d0991568f4dcf6d4fa3e1d2bba23d25b415b02"
+  },
+  {
+    "id": "rasa_properties__p1__c9",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "Common sources",
+    "word_count": 2,
+    "hash": "704ad5c90de4557d5d05870a91a017e8134ace8d67418f8af730b01dd2e974d5"
+  },
+  {
+    "id": "rasa_properties__p1__c10",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Rice, wheat, milk, ghee, dates, banana, sweet potato, jaggery (moderate).",
+    "word_count": 11,
+    "hash": "6d747cf8d867ad673ceeb20d4019b45f1380b4bd23dff2144abdbddb87eebf2b"
+  },
+  {
+    "id": "rasa_properties__p1__c11",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "Use cases",
+    "word_count": 2,
+    "hash": "ff27a991e8559d6a53024fb888d0b9f062f31154593bf4db2c6431ace2d7d05a"
+  },
+  {
+    "id": "rasa_properties__p1__c12",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Vata calming\n • Pitta cooling\n • Avoid for Kapha in excess",
+    "word_count": 12,
+    "hash": "a203d336f1821db613a99da3691ce93d20c8e6bb542b05a970b5d61320b8087f"
+  },
+  {
+    "id": "rasa_properties__p1__c13",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "2. SOUR (Amla)",
+    "word_count": 3,
+    "hash": "fcd588b7e2191ceb8baf83503002efff6b138ba46630f73ba3682b53294d8d29"
+  },
+  {
+    "id": "rasa_properties__p1__c14",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "Primary effects",
+    "word_count": 2,
+    "hash": "f06b1f42b810a45ad8c9a0561259a32d2eb368d58a7b3ed17c9db9a42783de63"
+  },
+  {
+    "id": "rasa_properties__p1__c15",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "• Stimulates digestion",
+    "word_count": 3,
+    "hash": "7c83a7d216d08f980888c43bb3088eb4209d35ae40b06f07fdd8f8ee0218ba94"
+  },
+  {
+    "id": "rasa_properties__p1__c16",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "1",
+    "word_count": 1,
+    "hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "id": "rasa_properties__p2__c0",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Warming\n • Moistening",
+    "word_count": 4,
+    "hash": "dad52399a795d2338c5d44e358b436f8cdfb6e4766bf8e30f5c4a5a9cbc1db81"
+  },
+  {
+    "id": "rasa_properties__p2__c1",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Increases",
+    "word_count": 1,
+    "hash": "5412dd3fd391e985ab9bc14c4c6fc9fc6816f4c19e1e4ca3f80203213a18d80c"
+  },
+  {
+    "id": "rasa_properties__p2__c2",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Pitta (heat)\n • Kapha (mucus slightly)",
+    "word_count": 7,
+    "hash": "f4cb5092ff173c32de283b2557a191583280bba6b6ba16c7c8114f7135048044"
+  },
+  {
+    "id": "rasa_properties__p2__c3",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Decreases",
+    "word_count": 1,
+    "hash": "d7301418bdcf742ce3c30e2caa83888001a9ee23fb93ce5a00b3c20c1fabdc47"
+  },
+  {
+    "id": "rasa_properties__p2__c4",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Vata",
+    "word_count": 2,
+    "hash": "7761a055193d0831722f02e00546afb186f3b345a1185f7f880c15c435d18736"
+  },
+  {
+    "id": "rasa_properties__p2__c5",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Common sources",
+    "word_count": 2,
+    "hash": "704ad5c90de4557d5d05870a91a017e8134ace8d67418f8af730b01dd2e974d5"
+  },
+  {
+    "id": "rasa_properties__p2__c6",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Yogurt, lemon, tamarind, fermented foods, tomatoes.",
+    "word_count": 7,
+    "hash": "f349d57f6b1217dbc37eb4fbb8d59b02f773bded6e5d5f83eab28a5d227ba76d"
+  },
+  {
+    "id": "rasa_properties__p2__c7",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Use cases",
+    "word_count": 2,
+    "hash": "ff27a991e8559d6a53024fb888d0b9f062f31154593bf4db2c6431ace2d7d05a"
+  },
+  {
+    "id": "rasa_properties__p2__c8",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Boost digestion in Vata\n • Reduce dryness\n • Limit for Pitta acidity / Kapha congestion",
+    "word_count": 16,
+    "hash": "0649bb415432e222e1676ca5a72e67c8ce2b565b3eb8dfa9a92c2e3ceebce308"
+  },
+  {
+    "id": "rasa_properties__p2__c9",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "3. SALTY (Lavana)",
+    "word_count": 3,
+    "hash": "ecf68b39e77067a53fbe6b15afccc9007a1958a027877d672fac681d2e219614"
+  },
+  {
+    "id": "rasa_properties__p2__c10",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Primary effects",
+    "word_count": 2,
+    "hash": "f06b1f42b810a45ad8c9a0561259a32d2eb368d58a7b3ed17c9db9a42783de63"
+  },
+  {
+    "id": "rasa_properties__p2__c11",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Warming\n • Increases water retention\n • Enhances taste and digestion",
+    "word_count": 11,
+    "hash": "bbcb615c59e2443d5db84b1d08be22571fb387e6ccf1637ad847efd56c120c4b"
+  },
+  {
+    "id": "rasa_properties__p2__c12",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Increases",
+    "word_count": 1,
+    "hash": "5412dd3fd391e985ab9bc14c4c6fc9fc6816f4c19e1e4ca3f80203213a18d80c"
+  },
+  {
+    "id": "rasa_properties__p2__c13",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Pitta\n • Kapha (water retention)",
+    "word_count": 6,
+    "hash": "a93aead6a05f4007fe87a93847dd99baae028ef088583ad983f5a0523130bc05"
+  },
+  {
+    "id": "rasa_properties__p2__c14",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Decreases",
+    "word_count": 1,
+    "hash": "d7301418bdcf742ce3c30e2caa83888001a9ee23fb93ce5a00b3c20c1fabdc47"
+  },
+  {
+    "id": "rasa_properties__p2__c15",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Vata (helps grounding)",
+    "word_count": 4,
+    "hash": "47d7cb0f9562cf228ace346382d93b4d8cebae005d46ffe413359d3aa4ea1207"
+  },
+  {
+    "id": "rasa_properties__p2__c16",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "Common sources",
+    "word_count": 2,
+    "hash": "704ad5c90de4557d5d05870a91a017e8134ace8d67418f8af730b01dd2e974d5"
+  },
+  {
+    "id": "rasa_properties__p2__c17",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Rock salt, sea salt, pickles, salted snacks.",
+    "word_count": 8,
+    "hash": "25532b58a781d236f49584f2d58a11caabe47c12562379f453f52b1c35d19d28"
+  },
+  {
+    "id": "rasa_properties__p2__c18",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "2",
+    "word_count": 1,
+    "hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "id": "rasa_properties__p3__c0",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Use cases",
+    "word_count": 2,
+    "hash": "ff27a991e8559d6a53024fb888d0b9f062f31154593bf4db2c6431ace2d7d05a"
+  },
+  {
+    "id": "rasa_properties__p3__c1",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Helps Vata digestion\n • Avoid for Pitta (heat)\n • Avoid for Kapha (swelling, BP)",
+    "word_count": 15,
+    "hash": "df5880b340ed4786591055eefdbc353ed3eabac7573dd43d5a1620a0c7f3b798"
+  },
+  {
+    "id": "rasa_properties__p3__c2",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "4. BITTER (Tikta)",
+    "word_count": 3,
+    "hash": "e27c44645344565b029f01ed60aa38fad64bb6412c8222ef8b67b410daaa562c"
+  },
+  {
+    "id": "rasa_properties__p3__c3",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Primary effects",
+    "word_count": 2,
+    "hash": "f06b1f42b810a45ad8c9a0561259a32d2eb368d58a7b3ed17c9db9a42783de63"
+  },
+  {
+    "id": "rasa_properties__p3__c4",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Cooling\n • Detoxifying\n • Reduces cravings",
+    "word_count": 7,
+    "hash": "df5045b205411e7b09f89ba0e0bcead795fb498660585b653fd28501e8fd49aa"
+  },
+  {
+    "id": "rasa_properties__p3__c5",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Increases",
+    "word_count": 1,
+    "hash": "5412dd3fd391e985ab9bc14c4c6fc9fc6816f4c19e1e4ca3f80203213a18d80c"
+  },
+  {
+    "id": "rasa_properties__p3__c6",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Vata (drying)",
+    "word_count": 3,
+    "hash": "104c9431fc4da00f45c09768aaa87d4e63f5551b82fdbee2a40881088686bad7"
+  },
+  {
+    "id": "rasa_properties__p3__c7",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Decreases",
+    "word_count": 1,
+    "hash": "d7301418bdcf742ce3c30e2caa83888001a9ee23fb93ce5a00b3c20c1fabdc47"
+  },
+  {
+    "id": "rasa_properties__p3__c8",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Pitta (best)\n • Kapha (best)",
+    "word_count": 6,
+    "hash": "8b0d2f9a35ee247d549a2b7c201b2b38a10fa88c1fba00df2f31d6dee96faf93"
+  },
+  {
+    "id": "rasa_properties__p3__c9",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Common sources",
+    "word_count": 2,
+    "hash": "704ad5c90de4557d5d05870a91a017e8134ace8d67418f8af730b01dd2e974d5"
+  },
+  {
+    "id": "rasa_properties__p3__c10",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Neem, methi, karela, spinach, turmeric.",
+    "word_count": 6,
+    "hash": "732b8e26e5a2c619fc367df6711822023b3d78baec6fee12934e7a0ab802d7f6"
+  },
+  {
+    "id": "rasa_properties__p3__c11",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Use cases",
+    "word_count": 2,
+    "hash": "ff27a991e8559d6a53024fb888d0b9f062f31154593bf4db2c6431ace2d7d05a"
+  },
+  {
+    "id": "rasa_properties__p3__c12",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Best for Pitta heat\n • Best for Kapha detox\n • Use minimally for Vata",
+    "word_count": 15,
+    "hash": "ab95506b8776d2c568ffda683f1fac28f7268643148ddba9d4b8d6a17b419d8f"
+  },
+  {
+    "id": "rasa_properties__p3__c13",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "5. PUNGENT (Katu)",
+    "word_count": 3,
+    "hash": "981fcd7510b30c6f580a873a7959a13d504a1241791ab89da6b1d90e9ef4429a"
+  },
+  {
+    "id": "rasa_properties__p3__c14",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Primary effects",
+    "word_count": 2,
+    "hash": "f06b1f42b810a45ad8c9a0561259a32d2eb368d58a7b3ed17c9db9a42783de63"
+  },
+  {
+    "id": "rasa_properties__p3__c15",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "• Strongly warming\n • Improves metabolism\n • Clears channels",
+    "word_count": 9,
+    "hash": "c8b822bbbaae51135b0e56e91849001380faf13491febf8e5d4ad1e060405570"
+  },
+  {
+    "id": "rasa_properties__p3__c16",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "3",
+    "word_count": 1,
+    "hash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+  },
+  {
+    "id": "rasa_properties__p4__c0",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Increases",
+    "word_count": 1,
+    "hash": "5412dd3fd391e985ab9bc14c4c6fc9fc6816f4c19e1e4ca3f80203213a18d80c"
+  },
+  {
+    "id": "rasa_properties__p4__c1",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Pitta strongly\n • Vata moderately (drying)",
+    "word_count": 7,
+    "hash": "023067f1118be61a4d342426357889aa0b90cfc031612239f223376d44f7fa51"
+  },
+  {
+    "id": "rasa_properties__p4__c2",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Decreases",
+    "word_count": 1,
+    "hash": "d7301418bdcf742ce3c30e2caa83888001a9ee23fb93ce5a00b3c20c1fabdc47"
+  },
+  {
+    "id": "rasa_properties__p4__c3",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Kapha (best)",
+    "word_count": 3,
+    "hash": "df94b64077b8aadf05460025e483e32b7a36788870f65499ad125152b67bbd22"
+  },
+  {
+    "id": "rasa_properties__p4__c4",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Common sources",
+    "word_count": 2,
+    "hash": "704ad5c90de4557d5d05870a91a017e8134ace8d67418f8af730b01dd2e974d5"
+  },
+  {
+    "id": "rasa_properties__p4__c5",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Ginger, black pepper, mustard, garlic, chilies.",
+    "word_count": 7,
+    "hash": "2062658636974bfdf58289bb422157b62f1ed11e5e5c406d90761171d6ac072b"
+  },
+  {
+    "id": "rasa_properties__p4__c6",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Use cases",
+    "word_count": 2,
+    "hash": "ff27a991e8559d6a53024fb888d0b9f062f31154593bf4db2c6431ace2d7d05a"
+  },
+  {
+    "id": "rasa_properties__p4__c7",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Kapha digestion + fat-cutting\n • Avoid for Pitta acidity\n • Limit for Vata (dryness)",
+    "word_count": 15,
+    "hash": "0f939adba4a90b8fdfaa083a2b17d280512fe9dbf2f2f0dc59bd51020499dbb9"
+  },
+  {
+    "id": "rasa_properties__p4__c8",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "6. ASTRINGENT (Kashaya)",
+    "word_count": 3,
+    "hash": "cc68ff50ae3418300dc20cb474487ce000752d6c4dc28611f8082e734e198810"
+  },
+  {
+    "id": "rasa_properties__p4__c9",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Primary effects",
+    "word_count": 2,
+    "hash": "f06b1f42b810a45ad8c9a0561259a32d2eb368d58a7b3ed17c9db9a42783de63"
+  },
+  {
+    "id": "rasa_properties__p4__c10",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Cooling\n • Drying\n • Absorbs moisture",
+    "word_count": 7,
+    "hash": "27e29d2e31a8f3fc6ad5c20809b8ba4a50fe00fb29e2610cf1c5ff38dca1c69a"
+  },
+  {
+    "id": "rasa_properties__p4__c11",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Increases",
+    "word_count": 1,
+    "hash": "5412dd3fd391e985ab9bc14c4c6fc9fc6816f4c19e1e4ca3f80203213a18d80c"
+  },
+  {
+    "id": "rasa_properties__p4__c12",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Vata (dryness)",
+    "word_count": 3,
+    "hash": "581c2000b6333c009af1b12785bdde9bde9c69b4059eec30ae0691fe3b961fea"
+  },
+  {
+    "id": "rasa_properties__p4__c13",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Decreases",
+    "word_count": 1,
+    "hash": "d7301418bdcf742ce3c30e2caa83888001a9ee23fb93ce5a00b3c20c1fabdc47"
+  },
+  {
+    "id": "rasa_properties__p4__c14",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Pitta (heat)\n • Kapha (mucus)",
+    "word_count": 6,
+    "hash": "109afeb71327ce9e286c44be048317abec85839053f4be0b9290982bf604e963"
+  },
+  {
+    "id": "rasa_properties__p4__c15",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Common sources",
+    "word_count": 2,
+    "hash": "704ad5c90de4557d5d05870a91a017e8134ace8d67418f8af730b01dd2e974d5"
+  },
+  {
+    "id": "rasa_properties__p4__c16",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "• Beans, lentils, pomegranate, green tea, cranberries.",
+    "word_count": 7,
+    "hash": "b7da974fce38b2e44271f05de06b7b50bd519d3a444a0f7b9a6a0ec194f8f85b"
+  },
+  {
+    "id": "rasa_properties__p4__c17",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "4",
+    "word_count": 1,
+    "hash": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+  },
+  {
+    "id": "rasa_properties__p5__c0",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Use cases",
+    "word_count": 2,
+    "hash": "ff27a991e8559d6a53024fb888d0b9f062f31154593bf4db2c6431ace2d7d05a"
+  },
+  {
+    "id": "rasa_properties__p5__c1",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "• Useful for Pitta and Kapha\n • Avoid excess for Vata (gas, bloating)",
+    "word_count": 13,
+    "hash": "ce65742c344993202c8b68fecf58ac08c09b5aa71636fbaf19b20ed82aec0cc7"
+  },
+  {
+    "id": "rasa_properties__p5__c2",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Quick Dosha–Rasa Summary Table Rasa Vata Pitta Kapha Sweet ↓↓↑Sour ↓\n↑↑Salty ↓↑↑Bitter ↑↓↓Pungent ↑↑↓Astringent↑↓↓",
+    "word_count": 15,
+    "hash": "28b262ad63a875aaced1d33098ce9d7c434fe1d58274913c72fcf716ff3be35b"
+  },
+  {
+    "id": "rasa_properties__p5__c3",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "(↓= pacifies, ↑= aggravates) ## Usage in substitutions # Sweet alternative\nfor Pitta",
+    "word_count": 13,
+    "hash": "467b0642f83de9d221bff6dd958edd54138cbceba21e1564480b4501be1fa38e"
+  },
+  {
+    "id": "rasa_properties__p5__c4",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Instead of neem kadha (bitter), give:",
+    "word_count": 6,
+    "hash": "0f72d37f7d3c948b3d399f17f3c964570903b7d38aa5417152dba6d7b9f83719"
+  },
+  {
+    "id": "rasa_properties__p5__c5",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "• Coriander water\n • Rose infusion\n • Gulkand + warm water",
+    "word_count": 11,
+    "hash": "7978a446deafab2f2515adcce7c477c4bf996cd16377c0a5354105c2ba6ed160"
+  },
+  {
+    "id": "rasa_properties__p5__c6",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Kapha-friendly sweeteners",
+    "word_count": 2,
+    "hash": "cff2e31fae3a4ec395d07b36621d5eaf4248be32d0b7105be1996364ad1eb148"
+  },
+  {
+    "id": "rasa_properties__p5__c7",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "• Stevia\n • Small jaggery\n • Honey (warm ONLY)",
+    "word_count": 9,
+    "hash": "b26a02e90431be38baba0be674f8d753a7538cd7edba9e36d9ec586177e9adaf"
+  },
+  {
+    "id": "rasa_properties__p5__c8",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Vata-safe pungent substitute",
+    "word_count": 3,
+    "hash": "bafd80a440ba00c4ca1c1ca3681e7338a203b08bb7adad7a6a916c1cde364b0b"
+  },
+  {
+    "id": "rasa_properties__p5__c9",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "• Mild ginger instead of chili\n • Hing instead of garlic",
+    "word_count": 11,
+    "hash": "0fc02f984e3ffbce9feffed9a625e24d72325f2a43edfe48985b283cf468dd0e"
+  },
+  {
+    "id": "rasa_properties__p5__c10",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Non-sour options for Pitta",
+    "word_count": 4,
+    "hash": "9b998d4a58b7b7df4ef4f4abedc1526ad1d91e30152c3efb5683b1e66b4d5662"
+  },
+  {
+    "id": "rasa_properties__p5__c11",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "• Cucumber, coconut, coriander, ripe mango (small)",
+    "word_count": 7,
+    "hash": "63b823600a548adfa4f8e9104fcad8c13f404ac71d94ab1434ed5d2517c3081e"
+  },
+  {
+    "id": "rasa_properties__p5__c12",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "5",
+    "word_count": 1,
+    "hash": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+  }
+]

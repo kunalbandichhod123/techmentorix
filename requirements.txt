@@ -1,3 +1,8 @@
+# --- Core UI & Environment ---
+streamlit
+python-dotenv
+
+# --- RAG & Search Engine ---
 nltk
 tqdm
 requests
@@ -6,3 +11,23 @@ sentence-transformers
 faiss-cpu
 numpy
 Whoosh
+
+# --- Voice Assistant Engine ---
+groq
+elevenlabs
+streamlit-mic-recorder
+
+# --- Text Processing & Logic ---
+rapidfuzz
+fuzzywuzzy
+python-Levenshtein
+language_tool_python
+
+# --- FASTAPI Backend ---
+fastapi
+uvicorn
+python-multipart
+
+# --- model testing ---
+matplotlib
+pandas

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "rasa_properties_pg1",
+    "doc_id": "rasa_properties",
+    "page": 1,
+    "text": "rasa_properties\n\n • Ayurveda identifies 6 rasas (tastes). Each rasa influences Vata / Pitta /\n Kapha, digestion, and therapeutic use. # Use this file for:\n • Dosha-safe food suggestions\n • Kadha substitutions\n • Flavor-compatible replacements\n • Explaining why something aggravates or reduces a dosha\n\n1. SWEET (Madhura)\n\nPrimary effects\n\n • Builds tissues, nourishing, grounding\n • Cooling for Pitta\n • Stable for Vata\n • Heavy for Kapha\n\nIncreases\n\n • Kapha (most)\n • Body weight\n • Mucus\n\nDecreases\n\n • Pitta (heat)\n • Vata (dryness, anxiety)\n\nCommon sources\n\n • Rice, wheat, milk, ghee, dates, banana, sweet potato, jaggery (moderate).\n\nUse cases\n\n • Vata calming\n • Pitta cooling\n • Avoid for Kapha in excess\n\n2. SOUR (Amla)\n\nPrimary effects\n\n • Stimulates digestion\n\n 1"
+  },
+  {
+    "id": "rasa_properties_pg2",
+    "doc_id": "rasa_properties",
+    "page": 2,
+    "text": "• Warming\n • Moistening\n\nIncreases\n\n • Pitta (heat)\n • Kapha (mucus slightly)\n\nDecreases\n\n • Vata\n\nCommon sources\n\n • Yogurt, lemon, tamarind, fermented foods, tomatoes.\n\nUse cases\n\n • Boost digestion in Vata\n • Reduce dryness\n • Limit for Pitta acidity / Kapha congestion\n\n3. SALTY (Lavana)\n\nPrimary effects\n\n • Warming\n • Increases water retention\n • Enhances taste and digestion\n\nIncreases\n\n • Pitta\n • Kapha (water retention)\n\nDecreases\n\n • Vata (helps grounding)\n\nCommon sources\n\n • Rock salt, sea salt, pickles, salted snacks.\n\n 2"
+  },
+  {
+    "id": "rasa_properties_pg3",
+    "doc_id": "rasa_properties",
+    "page": 3,
+    "text": "Use cases\n\n • Helps Vata digestion\n • Avoid for Pitta (heat)\n • Avoid for Kapha (swelling, BP)\n\n4. BITTER (Tikta)\n\nPrimary effects\n\n • Cooling\n • Detoxifying\n • Reduces cravings\n\nIncreases\n\n • Vata (drying)\n\nDecreases\n\n • Pitta (best)\n • Kapha (best)\n\nCommon sources\n\n • Neem, methi, karela, spinach, turmeric.\n\nUse cases\n\n • Best for Pitta heat\n • Best for Kapha detox\n • Use minimally for Vata\n\n5. PUNGENT (Katu)\n\nPrimary effects\n\n • Strongly warming\n • Improves metabolism\n • Clears channels\n\n 3"
+  },
+  {
+    "id": "rasa_properties_pg4",
+    "doc_id": "rasa_properties",
+    "page": 4,
+    "text": "Increases\n\n • Pitta strongly\n • Vata moderately (drying)\n\nDecreases\n\n • Kapha (best)\n\nCommon sources\n\n • Ginger, black pepper, mustard, garlic, chilies.\n\nUse cases\n\n • Kapha digestion + fat-cutting\n • Avoid for Pitta acidity\n • Limit for Vata (dryness)\n\n6. ASTRINGENT (Kashaya)\n\nPrimary effects\n\n • Cooling\n • Drying\n • Absorbs moisture\n\nIncreases\n\n • Vata (dryness)\n\nDecreases\n\n • Pitta (heat)\n • Kapha (mucus)\n\nCommon sources\n\n • Beans, lentils, pomegranate, green tea, cranberries.\n\n 4"
+  },
+  {
+    "id": "rasa_properties_pg5",
+    "doc_id": "rasa_properties",
+    "page": 5,
+    "text": "Use cases\n\n • Useful for Pitta and Kapha\n • Avoid excess for Vata (gas, bloating)\n\nQuick Dosha–Rasa Summary Table Rasa Vata Pitta Kapha Sweet ↓↓↑Sour ↓\n↑↑Salty ↓↑↑Bitter ↑↓↓Pungent ↑↑↓Astringent↑↓↓\n\n(↓= pacifies, ↑= aggravates) ## Usage in substitutions # Sweet alternative\nfor Pitta\n\nInstead of neem kadha (bitter), give:\n\n • Coriander water\n • Rose infusion\n • Gulkand + warm water\n\nKapha-friendly sweeteners\n\n • Stevia\n • Small jaggery\n • Honey (warm ONLY)\n\nVata-safe pungent substitute\n\n • Mild ginger instead of chili\n • Hing instead of garlic\n\nNon-sour options for Pitta\n\n • Cucumber, coconut, coriander, ripe mango (small)\n\n 5"
+  }
+]

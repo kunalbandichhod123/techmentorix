@@ -1,0 +1,898 @@
+[
+  {
+    "id": "herbs_and_spices__p1__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "herbs_and_spices",
+    "word_count": 1,
+    "hash": "4b2d458ee0191ef0720e4db066b429519688a15a6fe185983276012970e789b4"
+  },
+  {
+    "id": "herbs_and_spices__p1__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• This file provides short, controlled Ayurvedic references for commonly used\n herbs and spices.\n • Each item includes: Dosha effect →Benefits →When to avoid.",
+    "word_count": 24,
+    "hash": "2929fba36df3d807c5bb45b92390d7c189af5a215b8605595df2a4f1774d5ab2"
+  },
+  {
+    "id": "herbs_and_spices__p1__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "Use this for:",
+    "word_count": 3,
+    "hash": "a49cfe32f43fb71bb1190e8bb614046190cff4b275233c72e95a1fb9ead30948"
+  },
+  {
+    "id": "herbs_and_spices__p1__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• Kadha formulation\n • Disease-specific suggestions\n • Dosha-safe substitutions\n • Safety warnings",
+    "word_count": 12,
+    "hash": "998c6b40215c48173d57fd30ad2a56f0030297eaebf98e23c5b5f4a5f1390de9"
+  },
+  {
+    "id": "herbs_and_spices__p1__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "1. GINGER (Adraka / Shunthi)",
+    "word_count": 5,
+    "hash": "8a6aed682b275e7bfc67b4d00d21d73df5dba0a444120c3a14838157a61654c1"
+  },
+  {
+    "id": "herbs_and_spices__p1__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p1__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• Pacifies: Kapha, mild Vata\n • Aggravates: Pitta (heat)",
+    "word_count": 9,
+    "hash": "246bd15e5d1ec2c168b2ef3c68715ae825dae4f2e34822483300080d0ee1183b"
+  },
+  {
+    "id": "herbs_and_spices__p1__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p1__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• Improves digestion (Agni)\n • Reduces nausea\n • Clears cold, cough, congestion\n • Enhances circulation",
+    "word_count": 15,
+    "hash": "cc5b2988e3aa42469a16f1266af4b0faf42743c9d67be7c9d07099d32aa57fac"
+  },
+  {
+    "id": "herbs_and_spices__p1__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p1__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• Pitta heat, ulcers, acidity\n • Heavy menstrual bleeding",
+    "word_count": 9,
+    "hash": "213112fc1e004ea739c5f24a7857d5e415cd53b5c0ade7f42c2319d0af01f6c0"
+  },
+  {
+    "id": "herbs_and_spices__p1__c11",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "2. TURMERIC (Haldi)",
+    "word_count": 3,
+    "hash": "87a03350e875d459d9969d3620f3f5e7b67f69d569b6a14a8d295788d6dd177a"
+  },
+  {
+    "id": "herbs_and_spices__p1__c12",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p1__c13",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• Pacifies: Kapha, Pitta (mildly)\n • Can aggravate: Vata a little (drying)",
+    "word_count": 12,
+    "hash": "6ffed696a76e73b31081f40b1775f6f4c8e09e38760b41469c072d74fee4539d"
+  },
+  {
+    "id": "herbs_and_spices__p1__c14",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p1__c15",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "• Anti-inflammatory\n • Antimicrobial\n • Improves skin and digestion",
+    "word_count": 9,
+    "hash": "bb21adcd4c896f64c8dab88cac319665c61f00ff8ec6bc62ec6b1637294ae1ab"
+  },
+  {
+    "id": "herbs_and_spices__p1__c16",
+    "doc_id": "herbs_and_spices",
+    "page": 1,
+    "text": "1",
+    "word_count": 1,
+    "hash": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "id": "herbs_and_spices__p2__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• Supports immunity",
+    "word_count": 3,
+    "hash": "3ea8525e894fa08f967a81df6898a47fda0475dc02df4e4ae8373d8ad518a9ce"
+  },
+  {
+    "id": "herbs_and_spices__p2__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p2__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• Gallbladder obstruction\n • Very dry Vata (use with ghee)",
+    "word_count": 10,
+    "hash": "d5288090f295d33162ef011130acf14f9ae83d7a2f7f783f36a1f731cbea1f60"
+  },
+  {
+    "id": "herbs_and_spices__p2__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "3. CINNAMON (Dalchini)",
+    "word_count": 3,
+    "hash": "8d21525d316452c03ba4ea544327ed59ccf15ce2b17808fb84f3ca26846a62e2"
+  },
+  {
+    "id": "herbs_and_spices__p2__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p2__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• Pacifies: Vata, Kapha\n • Aggravates: Pitta (warming)",
+    "word_count": 8,
+    "hash": "d06c78b8e656c2625e72dcbee9df52c2c2b15b3b58bf8af0c4372c4914c2bb12"
+  },
+  {
+    "id": "herbs_and_spices__p2__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p2__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• Improves metabolism\n • Controls blood sugar\n • Clears mucus\n • Stimulates circulation",
+    "word_count": 13,
+    "hash": "0cf119d5ab63adad93bb699d61fc934793654fd0a9fefef00fd758db89b9876f"
+  },
+  {
+    "id": "herbs_and_spices__p2__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p2__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• High Pitta heat, acidity\n • Bleeding disorders (in excess)",
+    "word_count": 10,
+    "hash": "7d521384f7c0ab56fc94977d4e8f08410fd94f8ad804ad24187d4de5003467d6"
+  },
+  {
+    "id": "herbs_and_spices__p2__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "4. TULSI (Holy Basil)",
+    "word_count": 4,
+    "hash": "fc580051bf9658c7a955c395ff571fc2c859f2ec444c4d5d917991ce495a61a3"
+  },
+  {
+    "id": "herbs_and_spices__p2__c11",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p2__c12",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• Pacifies: Kapha, Vata\n • Slightly increases Pitta",
+    "word_count": 8,
+    "hash": "21370afc1737e05fd66033f7fada94d97097549c065fa297ac2d1f91625a44be"
+  },
+  {
+    "id": "herbs_and_spices__p2__c13",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p2__c14",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• Anti-viral, anti-cold\n • Reduces cough and congestion\n • Improves respiration\n • Mild stress-relief",
+    "word_count": 14,
+    "hash": "f4811ecd1ee1c4808b1154c4c4699e773c81146034fb326c19461bf6f1a07c5f"
+  },
+  {
+    "id": "herbs_and_spices__p2__c15",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p2__c16",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "• High Pitta heat",
+    "word_count": 4,
+    "hash": "abed84cc1c556b5a36dfce30e070459f737fdc23aae46bebfb10ed13bb23b7ba"
+  },
+  {
+    "id": "herbs_and_spices__p2__c17",
+    "doc_id": "herbs_and_spices",
+    "page": 2,
+    "text": "2",
+    "word_count": 1,
+    "hash": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "id": "herbs_and_spices__p3__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Pregnancy (excess)",
+    "word_count": 3,
+    "hash": "c9e5b6caf3ca8ebf7c38dc6ac94c0554061b11b8fa8b4ca61bc565fdb12343a1"
+  },
+  {
+    "id": "herbs_and_spices__p3__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "5. ASHWAGANDHA",
+    "word_count": 2,
+    "hash": "a858833239939f9f4f1f86a759583baf81adc1bcc70cdbc95235bb6433d3c504"
+  },
+  {
+    "id": "herbs_and_spices__p3__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p3__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Pacifies: Vata\n • Neutral: Pitta\n • Can increase: Kapha (heavy)",
+    "word_count": 11,
+    "hash": "e0874c37f7162e9e174ef0b38b53442b98487b262322bbdf32e596696f2df393"
+  },
+  {
+    "id": "herbs_and_spices__p3__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p3__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Strengthens immunity\n • Reduces stress, anxiety\n • Enhances sleep quality\n • Boosts strength & stamina",
+    "word_count": 16,
+    "hash": "780aa6c97ed977212a257e09e9a07451d82545b7a5c89edabe388c8ebf0d1002"
+  },
+  {
+    "id": "herbs_and_spices__p3__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p3__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Kapha congestion\n • Thyroid hyperactivity\n • Pregnancy (consult required)",
+    "word_count": 10,
+    "hash": "cdf650956304a09289bd8d1f686497debad553c54372ec8739f977695d271755"
+  },
+  {
+    "id": "herbs_and_spices__p3__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "6. TRIPHALA",
+    "word_count": 2,
+    "hash": "d1f4a2d17f93e4fab4704a32046116e244da04ca54ea461da66a6e3d37b776f6"
+  },
+  {
+    "id": "herbs_and_spices__p3__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p3__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Balances all three doshas\n • Slightly drying →can increase Vata",
+    "word_count": 11,
+    "hash": "6aebda9a932caf44916a99195daafbb0f517a6953ade1339d58dc24dde5dfecd"
+  },
+  {
+    "id": "herbs_and_spices__p3__c11",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p3__c12",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Best Ayurvedic bowel tonic\n • Improves digestion & detox\n • Mild antioxidant\n • Supports eye health",
+    "word_count": 17,
+    "hash": "cadfcf93b3cb2a117c366adbe7643b17b502f395eab3183c5a37d7ddee613cad"
+  },
+  {
+    "id": "herbs_and_spices__p3__c13",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p3__c14",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "• Severe diarrhea\n • Very dry Vata constipation (use with ghee)",
+    "word_count": 11,
+    "hash": "3a2ff69a261b95dd60df8ae294a0f12d7ee8337e8d2f50e9585ddd5bf142a0db"
+  },
+  {
+    "id": "herbs_and_spices__p3__c15",
+    "doc_id": "herbs_and_spices",
+    "page": 3,
+    "text": "3",
+    "word_count": 1,
+    "hash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce"
+  },
+  {
+    "id": "herbs_and_spices__p4__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "7. MULETHI (Licorice)",
+    "word_count": 3,
+    "hash": "1434614e12427373dd9aea48e1833869e190980fe684133f6539ace8ac161d31"
+  },
+  {
+    "id": "herbs_and_spices__p4__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p4__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "• Pacifies: Vata, Pitta\n • Increases: Kapha",
+    "word_count": 7,
+    "hash": "9a2ceecc00f584033216b44a9e266a8e290b949e1bab35eb0208ec4105a36f38"
+  },
+  {
+    "id": "herbs_and_spices__p4__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p4__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "• Soothes throat\n • Supports respiratory health\n • Useful for acidity\n • Mildly rejuvenating",
+    "word_count": 14,
+    "hash": "964ba3ecf060d5825605ba456c7b32b33c008f6cf8f9582138dd7a019b42cffb"
+  },
+  {
+    "id": "herbs_and_spices__p4__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p4__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "• High blood pressure\n • Water retention\n • Kapha congestion",
+    "word_count": 10,
+    "hash": "e47fb7fb9c94b8ed26eb0bff3f1364a9e90cd760b4743bc36d11adc1e7f61816"
+  },
+  {
+    "id": "herbs_and_spices__p4__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "8. BLACK PEPPER (Kali Mirch)",
+    "word_count": 5,
+    "hash": "ad9d8e3ec7c236dcc05b1df60999e1e37ea11fefbefc94560ae6d826ea71446d"
+  },
+  {
+    "id": "herbs_and_spices__p4__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p4__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "• Pacifies: Kapha\n • Slightly increases: Vata, Pitta",
+    "word_count": 8,
+    "hash": "37322d4014ed89aedd36165834b407f0ea3767f6ca0032fc526a132cbe2fdffd"
+  },
+  {
+    "id": "herbs_and_spices__p4__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p4__c11",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "• Strong digestive stimulant\n • Enhances absorption (bioavailability)\n • Clears mucus\n • Anti-microbial",
+    "word_count": 13,
+    "hash": "b5f824b74f6321b1208c660f3c6f7d4b56100847fe9f0bca2ee4b87e40540c95"
+  },
+  {
+    "id": "herbs_and_spices__p4__c12",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p4__c13",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "• Ulcers\n • High Pitta acidity\n • Dry Vata conditions",
+    "word_count": 10,
+    "hash": "7374579619da167c062afb9cb1facb85ad8ec9fb035e93d1da048ce96b4b6bab"
+  },
+  {
+    "id": "herbs_and_spices__p4__c14",
+    "doc_id": "herbs_and_spices",
+    "page": 4,
+    "text": "4",
+    "word_count": 1,
+    "hash": "4b227777d4dd1fc61c6f884f48641d02b4d121d3fd328cb08b5531fcacdabf8a"
+  },
+  {
+    "id": "herbs_and_spices__p5__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "9. CUMIN (Jeera)",
+    "word_count": 3,
+    "hash": "addf1c141297cdd2f38e69ea86a91ff02b66f64d69cb4b3fe0f1810c574a9f19"
+  },
+  {
+    "id": "herbs_and_spices__p5__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p5__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• Pacifies: Kapha, Pitta\n • Neutral for Vata",
+    "word_count": 8,
+    "hash": "7bce55c4cc6f326d084b098c1db7cdf7c19c1e14f47baed2306c4b450a344933"
+  },
+  {
+    "id": "herbs_and_spices__p5__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p5__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• Improves digestion\n • Reduces gas and bloating\n • Supports lactation\n • Mild detoxifying",
+    "word_count": 14,
+    "hash": "5a6d5e84817190a866202a9ae0a38770cab7e2ad6202449c1ddc7452dcc6184e"
+  },
+  {
+    "id": "herbs_and_spices__p5__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p5__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• No major contraindications\n • Use mildly in very dry Vata",
+    "word_count": 11,
+    "hash": "98f02c3004dfbca57c621d61df3d26a0c1ea272da17506668a5c1c11c9510494"
+  },
+  {
+    "id": "herbs_and_spices__p5__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "10. FENNEL (Saunf)",
+    "word_count": 3,
+    "hash": "d2c408a27650d2ba19de157623c9d1796c506dc3837baadb388a578609906cf6"
+  },
+  {
+    "id": "herbs_and_spices__p5__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p5__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• Pacifies: Pitta, Vata\n • Neutral/mildly increasing: Kapha",
+    "word_count": 8,
+    "hash": "1b2d5bdd1de1579a86353b818bf219295882d72261373cae24325eddf11103c0"
+  },
+  {
+    "id": "herbs_and_spices__p5__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p5__c11",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• Best cooling spice\n • Reduces acidity\n • Improves digestion without heat\n • Good for breath + bloating",
+    "word_count": 18,
+    "hash": "cbc69f4cda8374d9ae1e192b2c3e816be9ce7fc53a5734989faf180a8918ffa0"
+  },
+  {
+    "id": "herbs_and_spices__p5__c12",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p5__c13",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• Excess Kapha congestion (don’t overuse)",
+    "word_count": 6,
+    "hash": "3d644e2afed09c38eca4775c8e00bd0abcd9ec3e891fb1272d04774e35a78c68"
+  },
+  {
+    "id": "herbs_and_spices__p5__c14",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "11. CARDAMOM (Elaichi)",
+    "word_count": 3,
+    "hash": "5a586859d7a1289bff09e130e454bc0d6a9654659c97128f9581e57cd61b32b9"
+  },
+  {
+    "id": "herbs_and_spices__p5__c15",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p5__c16",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "• Pacifies: Pitta, Vata\n • Neutral for Kapha",
+    "word_count": 8,
+    "hash": "b86b5c9c5cfcf32a70d5a1a914a22e1999bf03263cd1fe992e8e9a53a850b2e0"
+  },
+  {
+    "id": "herbs_and_spices__p5__c17",
+    "doc_id": "herbs_and_spices",
+    "page": 5,
+    "text": "5",
+    "word_count": 1,
+    "hash": "ef2d127de37b942baad06145e54b0c619a1f22327b2ebbcfbec78f5564afe39d"
+  },
+  {
+    "id": "herbs_and_spices__p6__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p6__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• Reduces acidity\n • Lightens heavy foods\n • Good for breath\n • Mild digestive aid",
+    "word_count": 15,
+    "hash": "f11a871aaf2f00911af7de8810903030ce49eb4e4a196704cd62ce77cf4c237f"
+  },
+  {
+    "id": "herbs_and_spices__p6__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p6__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• No strong contraindications\n • Very dry Vata may need moisture",
+    "word_count": 11,
+    "hash": "8d6b6dac8d91c22b54ba22dfe70e9eb7669d17129a4cde7accc0ca52bd9126e6"
+  },
+  {
+    "id": "herbs_and_spices__p6__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "12. CLOVE (Laung)",
+    "word_count": 3,
+    "hash": "0aa845d669647b0bdabcce0e0dcf5556a6b5e47e2ae03941413143b72ee3c700"
+  },
+  {
+    "id": "herbs_and_spices__p6__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p6__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• Pacifies: Kapha\n • Increases: Pitta slightly\n • Neutral: Vata",
+    "word_count": 10,
+    "hash": "3677749a738e2578699a0a2de7dbb175648289c15e7530d5162ac2f71f0ad101"
+  },
+  {
+    "id": "herbs_and_spices__p6__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p6__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• Antimicrobial\n • Improves digestion\n • Useful in toothache\n • Clears mucus",
+    "word_count": 12,
+    "hash": "b8ef7b1ab146360ad114e1b851a42bfa5eaa445dd5c0049aba09ecd51853a276"
+  },
+  {
+    "id": "herbs_and_spices__p6__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p6__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• High Pitta heat\n • Ulcers",
+    "word_count": 6,
+    "hash": "56bf8587341df779ce777dee379ac2761c70e45605b8fb203aa7276a7f2de3ed"
+  },
+  {
+    "id": "herbs_and_spices__p6__c11",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "13. GARLIC (Lahsun)",
+    "word_count": 3,
+    "hash": "d568363c9db75dad5e1ccba96c0af916cf4808c032f85acab41015daf4daef69"
+  },
+  {
+    "id": "herbs_and_spices__p6__c12",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p6__c13",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• Pacifies: Kapha, Vata\n • Increases: Pitta strongly",
+    "word_count": 8,
+    "hash": "e240f688292f474b8e6e25eac8c273bde3abb4dee4b219f7a07c3a8afb2a489e"
+  },
+  {
+    "id": "herbs_and_spices__p6__c14",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p6__c15",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "• Strong antimicrobial\n • Improves circulation",
+    "word_count": 6,
+    "hash": "8b6a93b509aa76685ce9bddf4309d8684c89d4838e6ba0c5642465e31a6ee3d2"
+  },
+  {
+    "id": "herbs_and_spices__p6__c16",
+    "doc_id": "herbs_and_spices",
+    "page": 6,
+    "text": "6",
+    "word_count": 1,
+    "hash": "e7f6c011776e8db7cd330b54174fd76f7d0216b612387a5ffcfb81e6f0919683"
+  },
+  {
+    "id": "herbs_and_spices__p7__c0",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "• Reduces cholesterol\n • Good for gas + digestion",
+    "word_count": 9,
+    "hash": "c59ed66a577bdff5bc4fb629c651c517db86515c0b66d21a5e8b3da864b47cb0"
+  },
+  {
+    "id": "herbs_and_spices__p7__c1",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p7__c2",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "• Pitta heat\n • Acidity & ulcers\n • Spiritual fasting (traditional restriction)",
+    "word_count": 12,
+    "hash": "9464eaa8ee0e51c082cb7cc91680f765d3cd3cb1eb411302b4b7685ff29786e2"
+  },
+  {
+    "id": "herbs_and_spices__p7__c3",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "14. AJWAIN (Carom Seeds)",
+    "word_count": 4,
+    "hash": "a1c82d545dc681f30d1494bdc19ca3a98a616287f78efe2fb2814806d4901fe0"
+  },
+  {
+    "id": "herbs_and_spices__p7__c4",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "Dosha Effect",
+    "word_count": 2,
+    "hash": "9273c19c69b649d14a02f8774f2d8a8e69f26a362eabafc01abbdfe049019327"
+  },
+  {
+    "id": "herbs_and_spices__p7__c5",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "• Pacifies: Kapha, Vata\n • Increases: Pitta (heat)",
+    "word_count": 8,
+    "hash": "5aeabc8b8305baf009914eef5f362e96862bc25c1e0347bf9c60c386e92441c1"
+  },
+  {
+    "id": "herbs_and_spices__p7__c6",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "Benefits",
+    "word_count": 1,
+    "hash": "d5b67bc930cd33c0c62c478cb250387d18e05304ba7d0e02fd1acea699044d20"
+  },
+  {
+    "id": "herbs_and_spices__p7__c7",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "• Best for gas & bloating\n • Improves digestion\n • Helps cold congestion\n • Antimicrobial",
+    "word_count": 15,
+    "hash": "30d2188ebc756b9ffd24257a8f93bf9f76929e0067222536a63b9f666458d259"
+  },
+  {
+    "id": "herbs_and_spices__p7__c8",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "Avoid When",
+    "word_count": 2,
+    "hash": "13a2b8de375279fea3b0d2a1789b50f036121966314963ed56502cb6991a0714"
+  },
+  {
+    "id": "herbs_and_spices__p7__c9",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "• High Pitta acidity\n • Ulcers",
+    "word_count": 6,
+    "hash": "4659070cb3db1a63f0b55e6ca2372b69ddc67e15720a4916021118a77f9fd1f3"
+  },
+  {
+    "id": "herbs_and_spices__p7__c10",
+    "doc_id": "herbs_and_spices",
+    "page": 7,
+    "text": "7",
+    "word_count": 1,
+    "hash": "7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+  }
+]
