@@ -3,7 +3,7 @@ this is an open innovation repo
 # TechMentorix
 **Team ThreeBits working on Aarogyam (Healthcare Assistant).**
 
-### 🏥 Problem Statement:
+### Problem Statement:
 > 🔴 **Limited Access:** Patients in remote areas struggle to access timely medical advice and prescriptions.
 > 🔴 **Inefficient Triaging:** Doctors spend valuable time on basic queries instead of critical cases.
 > 🔴 **Language Barriers:** Medical interfaces are often not localized, making it hard for non-English speakers.
