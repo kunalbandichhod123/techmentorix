@@ -1,10 +1,10 @@
 # 🌿Aarogyam - TechMentorix
 
-**AyurMeal** is a comprehensive Ayurvedic health management platform designed to bridge the gap between Ayurvedic doctors and patients. It features an intelligent meal planner, patient history tracking, and a secure authentication system for different user roles.
+**Aarogyam** is a comprehensive Ayurvedic health management platform designed to bridge the gap between Ayurvedic doctors and patients. It features an intelligent meal planner, patient history tracking, and a secure authentication system for different user roles.
 
 Here is a concise, high-impact To-Do list focusing on the critical milestones for your dashboards.
 
-# ToDo List: AyurMeal Dashboards
+# ToDo List: Aarogyam Dashboards
 
 
 * [x] **Repo & Env:** Git initialized, Virtual Environment setup
