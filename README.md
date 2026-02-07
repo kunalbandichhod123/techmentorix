@@ -35,21 +35,25 @@ this is an open innovation repo
 - [x] Configure Firebase/MongoDB
 - [x] Initialize GitHub Repository
 
+**> AI chat assistant files making**
+- [x] created pdf text extraction files
+- [x] made chunks from texts
+
 **> AI/Voice Module (Branch: AI-voice-Assistant)**
-- [x] Setup Speech-to-Text API
-- [x] Train Symptom Prediction Model
+- [] Setup Speech-to-Text API
+- [] Train Symptom Prediction Model
 - [ ] Optimize response latency
 - [ ] Integrate Voice Output (TTS)
 
 **> Dashboard & Backend (Branch: Dashboard)**
-- [x] Design Database Schema
-- [x] Create API endpoints for user data
-- [ ] Implement PDF Generation Logic
-- [ ] Connect with Frontend
+- [ ] Design Database Schema
+- [ ] Create API endpoints for user data
+- [x] Implement PDF Generation Logic
+- [x] Connect with streamlit
 
 **> UI/UX (Branch: Aarogyam-UI/UX)**
-- [x] Create Wireframes (Figma)
-- [x] Build Landing Page
+- [x] Create basic ui files
+- [x] Build main dashboard
 - [ ] Develop Chat Interface
 - [ ] Integration with Backend APIs
 
